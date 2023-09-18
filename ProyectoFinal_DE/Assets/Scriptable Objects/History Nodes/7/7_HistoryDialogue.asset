@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7ed3ac2282b2b4fa8a90988d9fb7d5, type: 3}
+  m_Name: 7_HistoryDialogue
+  m_EditorClassIdentifier: 
+  npcName: Paco
+  sentences:
+  - "Tras ocurrir lo inevitable, sin nadie en casa esper\xE1ndolo, sin raz\xF3n por
+    la cual seguir levant\xE1ndose todos los d\xEDas a trabajar Paco acaba yendo
+    cada vez menos de seguido a la obra."
+  - "Su jefe puede tragarse un par de d\xEDas de baja por enfermedad, quiz\xE1 le
+    funcionara una semana incluso"
+  - "Pero eventualmente las excusas dejan de funcionar y se vuelven cada vez m\xE1s
+    desilusionales."
+  - "El aroma a litrona a las 7 de la ma\xF1ana o la evidente demarcaci\xF3n de la
+    cara de Paco con el paso del tiempo tampoco ayuda."
+  - Paco acaba por perder el trabajo.
+  - "Sin mucho m\xE1s que hacer, la vida que le espera a Paco se dista bastante de
+    la que ten\xEDa hace solo menos de un a\xF1o, todo por unas moneditas\u2026 "

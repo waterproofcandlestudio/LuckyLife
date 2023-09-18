@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f136ec40e905f44196fa4c78f57e642, type: 3}
+  m_Name: 2.2_RootNode
+  m_EditorClassIdentifier: 
+  historyText: {fileID: 11400000, guid: 460a8d2df97bb414da05e7327dc9b937, type: 2}
+  goodEndText: {fileID: 11400000, guid: d21a2f93f405dac4abc221d72d842c3d, type: 2}
+  badEndText: {fileID: 11400000, guid: ce62b12e6c0e32f4b93d87865a04fa05, type: 2}
+  nodeDontGive: {fileID: 11400000, guid: 032a9088dba54ad4a92d3518c221c43b, type: 2}
+  nodeGive: {fileID: 11400000, guid: b35dfa1d805933c4da73801e45ee2b32, type: 2}
+  inputAmount: 100
+  outputAmount: 200
+  pacoModel: {fileID: 21300000, guid: bb951658ba2656e4b853282dfe721378, type: 3}

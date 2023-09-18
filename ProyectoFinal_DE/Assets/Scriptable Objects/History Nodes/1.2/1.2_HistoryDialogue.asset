@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7ed3ac2282b2b4fa8a90988d9fb7d5, type: 3}
+  m_Name: 1.2_HistoryDialogue
+  m_EditorClassIdentifier: 
+  npcName: Paco
+  sentences:
+  - "La ma\xF1ana siguiente, Paco vuelve a pasar por su bar de confianza para desayunar
+    su ya t\xEDpico pincho de tortilla con caf\xE9.\r"
+  - "Paco ha gastado 200\u20AC de los 300\u20AC ganados en invitar a sus amigos a
+    las mejores y m\xE1s caras copas del bar."
+  - "Observa la m\xE1quina que tantas alegr\xEDas le di\xF3 la noche anterior y que
+    le permiti\xF3 a \xE9l y a sus amigos pasar una de las mejores noches de sus
+    vidas.\r"
+  - "Realmente no tiene claro si volver a usarla y probar suerte. \xC9l sabe la imagen
+    que genera ver a un hombre como \xE9l en una m\xE1quina tragaperras a escasas
+    7:00AM"
+  - "No obstante, parece que hoy hay poca gente en el bar a estas horas. \xBFPor
+    qu\xE9 no probar suerte?"

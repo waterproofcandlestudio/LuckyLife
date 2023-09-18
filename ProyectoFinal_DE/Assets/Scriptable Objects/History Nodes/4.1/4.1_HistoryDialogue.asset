@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7ed3ac2282b2b4fa8a90988d9fb7d5, type: 3}
+  m_Name: 4.1_HistoryDialogue
+  m_EditorClassIdentifier: 
+  npcName: Paco
+  sentences:
+  - "Anoche Paco lleg\xF3 a casa sin un duro. Ten\xEDa que haber hecho la compra
+    de la semana pero la suerte no estuvo de su lado y perdi\xF3 el dinero."
+  - "Su mujer le ech\xF3 una buena bronca y le mand\xF3 a dormir al sof\xE1."
+  - "Al d\xEDa siguiente, ni siquiera pudo tomarse su desayuno t\xEDpico de caf\xE9
+    y pincho de tortilla."
+  - "Este era un d\xEDa triste, solo hab\xEDa caf\xE9 en la mesa."
+  - "Paco record\xF3 entonces el d\xEDa que era hoy, \xA1solo quedaba una semana
+    para el cumplea\xF1os de su mujer!"
+  - "Y gracias a la rachita que llevaba no ten\xEDa el dinero suficiente para un
+    buen regalo para compensar sus vicios."
+  - "Pero claro, y si\u2026 \xBFY si hubiera una forma de conseguir dinero muy r\xE1pidamente
+    solo con un poquito de suerte?"

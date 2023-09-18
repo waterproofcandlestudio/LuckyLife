@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7ed3ac2282b2b4fa8a90988d9fb7d5, type: 3}
+  m_Name: 5.2_HistoryDialogue
+  m_EditorClassIdentifier: 
+  npcName: Paco
+  sentences:
+  - "Es el cumplea\xF1os de Luisa y Paco la ha invitado al restaurante m\xE1s \u201Cpremium\u201D
+    de la ciudad"
+  - "Luisa est\xE1 encantada ya que \xFAltimamente fueron unos meses complicados
+    tanto econ\xF3micamente como en su relaci\xF3n."
+  - "Tienen una buena cena, pero una amiga de Luisa le dej\xF3 caer que Paco estaba
+    gastando mucho dinero en el bar cada d\xEDa"
+  - "Ante las sospechas de que Paco est\xE1 ganando dinero gracias a la m\xE1quina,
+    Luisa le pregunta por su fuente repentina de ingresos."
+  - "Paco le dice que hab\xEDa ganado el premio al empleado del mes y que de ah\xED
+    todo el dinero."
+  - Vuelven a casa y Luisa le pide a Paco que saque la basura.
+  - "Es s\xE1bado por lo que Casa Pepin cierra a la una y queda media hora para que
+    cierre"
+  - "Realmente, si echa una partida r\xE1pida y gana le puede pagar un fin de semana
+    en Toledo, que a Luisa siempre le ha gustado mucho la aut\xE9ntica capital de
+    Espa\xF1a"

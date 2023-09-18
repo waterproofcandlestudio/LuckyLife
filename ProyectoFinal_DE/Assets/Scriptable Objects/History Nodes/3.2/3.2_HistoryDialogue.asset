@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7ed3ac2282b2b4fa8a90988d9fb7d5, type: 3}
+  m_Name: 3.2_HistoryDialogue
+  m_EditorClassIdentifier: 
+  npcName: Paco
+  sentences:
+  - Nada mal para Paco.
+  - "Con el dinero de la \xFAltima vez se mont\xF3 un Wateke cojonudo. "
+  - "Invit\xF3 a todo el barrio y todos pasaron una tarde divertida e interesante.
+    Antes parec\xEDa que nadie sab\xEDa siquiera su nombre pero ahora todos le saludan
+    por la calle y le invitan al caf\xE9 cuando baja al bar."
+  - "Realmente no le vino nada mal esa racha ganadora en la m\xE1quina."
+  - "Cuando baja al bar al d\xEDa siguiente no puede evitar echarle un ojo de nuevo
+    y preguntarse por qu\xE9 no probar suerte de nuevo."

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7ed3ac2282b2b4fa8a90988d9fb7d5, type: 3}
+  m_Name: 5.1_HistoryDialogue
+  m_EditorClassIdentifier: 
+  npcName: Paco
+  sentences:
+  - "Despu\xE9s de perder el dinero la \xFAltima vez Paco volvi\xF3 a casa, sin un
+    duro en el bolsillo."
+  - "No pudo comprarle un regalo a su mujer para su aniversario. No pudo ni siquiera
+    llevarla a cenar fuera de casa. \r"
+  - "Cuando le explic\xF3 por qu\xE9 no hab\xEDa casi dinero en la cuenta a su parienta,
+    esta se volvi\xF3 loca. "
+  - "Le lanz\xF3 la media vajilla que les hab\xEDan regalado por sus bodas de plata.
+    Y se larg\xF3 de casa cerrando con un portazo que retumb\xF3 el edificio.\r"
+  - "Paco trat\xF3 de volver a contactarla, pero no hubo manera."
+  - "Empez\xF3 a darse a la bebida, lo \xFAnico que le acompa\xF1aba en las solitarias
+    noches de oto\xF1o era una litrona San Miguel de 1.32\u20AC del Mercadona y el
+    Chiringuito de jugones a partir de las 00:00 de domingo a jueves."
+  - "Un d\xEDa lleg\xF3 al bar to\u2019 perdido y con una cuajada encima que parec\xEDan
+    tres."
+  - "La m\xE1quina le puso unos ojitos tan golosones que hicieron moverse a Paco
+    hacia ella con la agilidad de una trucha ciega"

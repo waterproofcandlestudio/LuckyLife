@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7ed3ac2282b2b4fa8a90988d9fb7d5, type: 3}
+  m_Name: 1_HistoryDialogue
+  m_EditorClassIdentifier: 
+  npcName: Paco
+  sentences:
+  - "Es el 45 cumplea\xF1os de paco, lo celebra en el bar del barrio con sus amigos"
+  - "Entre ca\xF1a y ca\xF1a Paco entrev\xE9 algo que le resulta ya casi familiar
+    despu\xE9s de tantos a\xF1os en la misma esquina del bar, una m\xE1quina tragaperras.\r"
+  - "\xBFSiempre ha estado ah\xED?\r"
+  - "Pocas veces hab\xEDa visto a alguien us\xE1ndola pero hoy es su cumplea\xF1os.
+    \xBFPor qu\xE9 no echar unas monedillas y probar suerte, no?"

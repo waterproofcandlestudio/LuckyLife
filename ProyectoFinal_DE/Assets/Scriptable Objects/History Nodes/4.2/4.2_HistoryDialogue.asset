@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7ed3ac2282b2b4fa8a90988d9fb7d5, type: 3}
+  m_Name: 4.2_HistoryDialogue
+  m_EditorClassIdentifier: 
+  npcName: Paco
+  sentences:
+  - "Al d\xEDa siguiente, vuelven a acabar Chema y \xE9l la jornada y piensan en
+    volver al bar a probar de nuevo."
+  - "Sin embargo, esta vez Chema no acompa\xF1a a Paco, su mujer le rega\xF1\xF3
+    de tal manera por volver en el estado en que volvieron la noche pasada, que ni
+    se lo plantea de nuevo."
+  - "Luisa (la mujer de Paco), no lo esper\xF3 despierto ya que ella trabaja hasta
+    muy tarde y no lo suele esperar despierta."
+  - "Jos\xE9 (camarero del bar) le avisa de que hoy es Mi\xE9rcoles y Casa Pep\xEDn
+    cierra pronto, por lo que Paco debe apresurarse para echar una partida r\xE1pida."

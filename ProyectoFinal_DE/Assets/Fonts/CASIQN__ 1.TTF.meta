@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 85135fb2dec4f4947ad5c04a9f97bcbd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Casino Queen
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 95b8afa8c8165374f8db46db56493e79, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
